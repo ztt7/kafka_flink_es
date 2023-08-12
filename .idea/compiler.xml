@@ -9,5 +9,8 @@
         <module name="kafka_flink_es" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="flinkdemo" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
